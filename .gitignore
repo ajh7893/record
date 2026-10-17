@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode 사용자별 설정 (창 배치, 스킴 선택 등)
+xcuserdata/
+*.xcuserstate
+
+# Xcode 빌드 결과물
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+# Package.resolved는 의존성 버전을 고정하므로 올린다.
+.build/
+.swiftpm/
